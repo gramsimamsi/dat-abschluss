@@ -66,10 +66,6 @@ Note:
 
 ---
 
-## Anforderungen
-
-+++
-
 ### Anforderungen
 @ul
 - Device
@@ -85,7 +81,7 @@ Standorte für Landwirt
 
 ---
 
-## Minimum Viable Produkt
+### Minimum Viable Produkt
 
 +++
 
@@ -110,6 +106,7 @@ Front: Darstellen, mobil+Desktop
 ## Komponenten
 
 ---
+
 ## CowTrackingDevice
 
 ![](assets/images/02_png_background/CowTracking-Device.png)
@@ -183,8 +180,10 @@ Notizzeile 1
 
 ---
 
+@snap[midpoint span-30]
 ## Demo!
 ![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
+@snapend
 
 ---
 
