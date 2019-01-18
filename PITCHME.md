@@ -35,5 +35,12 @@ Zeit -> Fragen am Schluss
 
 ---
 
-# Fragen?
+### Demo!
+![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
+
+---
+
+### Fragen?
+@snap[span-30]
 ![](assets/images/thinking_face.png)
+@snapend
