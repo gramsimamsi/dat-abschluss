@@ -21,8 +21,7 @@ Bauer sucht Kuh. Cowtracking ist die Lösung.
 
 @ul
 - Rückblick: Beginn und Zwischenpräsentation
-- Verlauf und Stand  
-(pro Komponente)
+- Verlauf und Stand  \n (pro Komponente)
 - Fragen
 @ulend
 
