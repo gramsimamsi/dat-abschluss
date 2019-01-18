@@ -1,6 +1,6 @@
 theme : beige
 layout: center
-logo : assets/images/CowTracking_DAT-Projekt.svg
+logo : assets/images/02_png_background/CowTracking-DAT-Projekt.png
 theme-override : assets/css/PITCHME.css
 transition : slide
 published : false
