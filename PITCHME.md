@@ -29,18 +29,103 @@ Bauer sucht Kuh. Cowtracking ist die Lösung.
 Note:
 
 Anforderungen, MVP, Feedback Zwischenpräsi  
-Für Device, Case, Server, WebInterface, Tests  
+Für Device, Server, WebInterface, Tests  
 (live-)Demo  
 Zeit -> Fragen am Schluss
 
 ---
 
-### Demo!
+## Anforderungen
+
+---
+
+## MVP
+
+---
+
+## Komponenten
+
+---
+
+## CowTrackingDevice
+
+![](assets/images/02_png_background/CowTracking-Device.png)
+
++++
+
+Folie 1
+
+Note:
+
+Notizzeile 1  
+2
+
+---
+
+## CowTrackingServer
+
+![](assets/images/02_png_background/CowTracking-Server.png)
+
++++
+
+Folie 1
+
+Note:
+
+Notizzeile 1  
+2
+
+---
+
+## CowTrackingDatabase
+
+![](assets/images/02_png_background/CowTracking-Database.png)
+
++++
+
+Folie 1
+
+Note:
+
+Notizzeile 1  
+2
+
+---
+
+## CowTrackingWebInterface
+
+![](assets/images/02_png_background/CowTracking-WebInterface.png)
+
++++
+
+Folie 1
+
+Note:
+
+Notizzeile 1  
+2
+
+---
+
+## Tests
+
++++
+
+Folie 1
+
+Note:
+
+Notizzeile 1  
+2
+
+---
+
+## Demo!
 ![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
 
 ---
 
 @snap[midpoint span-30]
-### Fragen?
+## Fragen?
 ![](assets/images/thinking_face.png)
 @snapend
