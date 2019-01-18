@@ -40,7 +40,7 @@ Zeit -> Fragen am Schluss
 
 ---
 
-### Fragen?
 @snap[midpoint span-30]
+### Fragen?
 ![](assets/images/thinking_face.png)
 @snapend
