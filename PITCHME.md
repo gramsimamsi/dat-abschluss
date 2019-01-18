@@ -1,6 +1,7 @@
-# Einführung Docker 
+# Abschlusspräsentation DAT 
 
-#### MUC, 08.01.2019
+### Projekt Cowtracking
+#### Rosenheim den 23.01.2019
 
 ---
 @snap[north]

@@ -1,6 +1,6 @@
 theme : beige
 layout: center
-logo : assets/images/logo.png
+logo : assets/images/CowTracking_DAT-Projekt.svg
 theme-override : assets/css/PITCHME.css
 transition : slide
 published : false
@@ -8,4 +8,4 @@ slide-number: true
 highlight: vs
 code-line-numbers: false
 remote-control: true
-footnote: "Einführung Docker"
+footnote: "DAT - Cowtracking"
