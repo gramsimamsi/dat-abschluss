@@ -13,7 +13,8 @@ Zur Wiederholung -  was ist Cowtracking?
 
 Note:
 
-Bauer sucht Kuh. Cowtracking ist die Lösung.
+Bauer sucht Kuh.  
+Cowtracking ist die Lösung.
 
 ---
 
@@ -63,18 +64,52 @@ Note:
 [Folie 3]
 ...
 
+---
+
+## Anforderungen
+
 +++
+
+### Anforderungen
+@ul
+- Device
+- LoRa
+- Standorte anzeigen
+@ulend
+
+Note:
+
+Gerät an Kuh  
+LoRa für comm Device<->Infra
+Standorte für Landwirt
 
 ---
 
-## MVP
+## Minimum Viable Produkt
+
++++
+
+### MVP
+@ul
+- Device: GNSS, LoRa
+- über Brocaar...
+- an Server...
+- in Datenbank...
+- auf Webseite!
+@ulend
+
+Note:
+
+Dev: ergonomie, auto-send, akku  
+Srv: in DB, an Front, in cloud  
+DB: persistent  
+Front: Darstellen, mobil+Desktop
 
 ---
 
 ## Komponenten
 
 ---
-
 ## CowTrackingDevice
 
 ![](assets/images/02_png_background/CowTracking-Device.png)
