@@ -1,8 +1,10 @@
-# Abschlusspräsentation DAT 
+# Abschlusspräsentation 
 
 ![](assets/images/02_png_background/CowTracking-DAT-Projekt.png)
 
-#### Rosenheim den 23.01.2019
+---
+
+![](https://media.giphy.com/media/h55EUEsTG9224/giphy.gif)
 
 ---
 @snap[north]
