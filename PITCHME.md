@@ -158,12 +158,39 @@ Notizzeile 1
 
 +++
 
-Folie 1
+### Umsetzung
+
+![](assets/images/CowTrackingWebInterface.png)
+
 
 Note:
 
-Notizzeile 1  
-2
+Material Design!
+
++++
+
+### Ergebnis
+
+![](assets/images/gui_3_menu.JPG)
+
++++
+
+### ToDo
+
+@ul
+- Bugfix
+- Refactoring
+- Kuh & Feld-Management
+- Websockets
+- Progressive Web App
+@ulend
+
+Note:
+
+Marker auf Mobile  
+Fertig -> will neu machen  
+CUD cow + Field  
+polling weg, sockets her  
 
 ---
 
@@ -182,6 +209,10 @@ Notizzeile 1
 
 ## Demo!
 ![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
+
+Note:  
+
+http://52.57.81.14
 
 ---
 
