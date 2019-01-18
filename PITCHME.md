@@ -2,50 +2,28 @@
 
 ![](assets/images/02_png_background/CowTracking-DAT-Projekt.png)
 
+Note:
+
+Zur Wiederholung -  was ist Cowtracking?
+
 ---
 
+### Cowtracking?
 ![](https://media.giphy.com/media/h55EUEsTG9224/giphy.gif)
 
----
-@snap[north]
-## Wer bin ich?
-@snapend
+Note:
 
-@snap[west]
-@ul
-- Lukas Grams
-- Informatikstudent, 7. Semester
-- Security-Fokus 
-@ulend
-@snapend
-
-@snap[east]
-@ul
-- Container-Erfahrung als Werksstudent
-- Mehrere Vorlesungen zum Thema
-- Bei weitem **kein Spezialist**
-@ulend
-@snapend
-
-+++
-
-## Disclaimer
-
-@ul
-- Wissen vermitteln > Kompetenz zeigen
-- Effizienz > Professionalität
-@ulend
+Bauer sucht Kuh. Cowtracking ist die Lösung.
 
 ---
 
 ## Agenda
 
 @ul
-- Container - Was ist das, kann man das essen?
-- Docker & Friends
-- Wofür brauch ich das?
-- Wie kann ich das benutzen?
-- Wie kann ich weitermachen?
+- Rückblick: Beginn und Zwischenpräsentation
+- Verlauf und Stand  
+(pro Komponente)
+- Fragen
 @ulend
 
 Note:
