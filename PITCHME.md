@@ -180,10 +180,8 @@ Notizzeile 1
 
 ---
 
-@snap[midpoint span-70]
 ## Demo!
 ![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
-@snapend
 
 ---
 
