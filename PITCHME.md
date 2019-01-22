@@ -113,10 +113,8 @@ Front: Darstellen, mobil+Desktop
 
 +++
 
-@snap[midpoint]
 ### Überblick
 ![](assets/images/device_01.png)
-@snapend
 
 +++
 
