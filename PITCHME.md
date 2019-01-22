@@ -150,6 +150,10 @@ Arduino
 ![](assets/images/device_02.png)
 @snapend
 
+Note:
+
+Zeitplan
+
 +++
 
 ### GNSS Modul
