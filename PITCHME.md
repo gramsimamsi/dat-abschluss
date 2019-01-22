@@ -130,7 +130,7 @@ Notizzeile 1
 +++
 
 ### CowTrackingServer
-![](assets\images\server_01.png)
+![](assets/images/server_01.png)
 
 +++
 
