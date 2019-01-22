@@ -179,17 +179,53 @@ STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen
 @ulend
 
 Note:
+- Auf Windows eine recht schlechte Anwendung  
+- Auschluss von GLONASS gefordert  
+
++++
+
+### CowTrackingCase
 
 @ul
-- Auf Windows eine recht schlechte Anwendung
-- Auschluss von GLONASS gefordert
+- Mit TINKERCAD entwickelt
+- Mit 3D Drucker aus RoLip gedruckt
+- Demo
+@ulend
+
+Note:
+- Probleme mit FreeCAD  
+- Verzögerung bei Endmontage aufgrund von später Festlegung auf Arduino  
+
++++
+
+### Lessons Learned Chris
+@ul
+- nur mit Arduino gearbeitet 
+- keine Tutorials für schnellen Einstieg
+- Einarbeitung in LoRa erforderlich
+@ulend
+
+Note:
+* nur Arduino bekannt -> kein Programmer  
+* IDE mit Paketen aufsetzen (was braucht ich eigentlich)  
+* verwirrende Vielfalt an ähnlichen Produkten  
+* keine Communityunterstützung  
+* Grundproblem Teamaufteilung -> 2 Leute für 3 Boards inkl. Evaluierung und   
+    Programmierung nicht machbar in Zeitrahmen  
+    * zusätzlich Einarbeitung in lora-Stack nötig (Spec lesen und   
+    praktische Umsetzung verstehen)
+
+### Lessons Learned Tom
+@ul
+- Im Akkubetriebenen IoT Bereich ist GNSS ein Problem
+- Hardware Evaluation kürzer halten
+- Mit bekannten Technologien arbeiten
+- Viele neue Erkenntnisse gesammelt
 @ulend
 
 ---
 
 ## CowTrackingServer
-
-### CowTrackingServer
 ![](assets/images/02_png_background/CowTracking-Server.png)
 
 +++
