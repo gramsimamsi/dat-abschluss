@@ -349,9 +349,11 @@ polling weg, sockets her
 
 +++
 
+@snap[north]
 ### Teststrategie
+@snapend
 
-@snap[west span-50]
+@snap[west span-70]
 ![](assets/images/tests_01.png)
 @snapend
 
