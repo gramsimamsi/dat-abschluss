@@ -399,7 +399,7 @@ Test in der Innenstadt
 ![](assets/images/tests_04_02.png)
 @snapend
 
-@snap[east span-50]
+@snap[east span-70]
 ![](assets/images/tests_04_03.png)
 @snapend
 
