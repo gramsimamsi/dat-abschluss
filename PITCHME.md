@@ -127,18 +127,16 @@ Front: Darstellen, mobil+Desktop
 
 
 Note: 
-XRange -> Gründe bereits in der Zwischenpräsentation erläutert  
-STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen  
+XRange GNSS-Modul anbinden  
+STM32 bekannter Manufacterer  
 * zertifizierter LoRa-Stack  
-* große Auswahl an Zusatzmodulen (Lora, gnss)  
-* Tutorials anhand STM32CubeMX -> falsche Annahme nur für Windows,  
-    vll hätten wir dann mehr gerissen ...  
-* Toolchain und Packages nicht aufgesetzt bekommen  
-* compilen nur mittels mbed-online-compilers  
-* Zeitplanproblem Iden des Dezembers   
-* deswegen wechseln auf Arduino  
-* Arduino -> nicht zertifiziert, aber für uns einfach zu programmieren  
-    da aus Vorlesung bekannt und Communityunterstützung gegeben
+* Tutorials STM32CubeMX  
+* Toolchain + Packages nicht aufgesetzt bekommen  
+* compilen _>  mbed-online-compilers  
+* Zeitplan -> Iden des Dezembers  
+Arduino
+* bekannt aus Vorlesung  
+* nicht zertifiziert
 
 +++
 
