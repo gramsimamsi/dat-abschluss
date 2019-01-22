@@ -134,14 +134,13 @@ Notizzeile 1
 
 +++
 
-@snap[north]
-
 ### Cloud
 
+@snap[west sidebar]
+![](assets/images/server_02_west.png)
 @snapend
 
-@snap[midpoint]
-![](assets/images/server_02_west.png)
+@snap[east sidebar]
 ![](assets/images/server_02_east.png)
 @snapend
 
