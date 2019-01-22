@@ -36,36 +36,6 @@ Zeit -> Fragen am Schluss
 
 ---
 
-## Anforderungen
-
-+++
-
-### [Überschrift Folie 1]
-[ Text ]  
-[Wenn Bild: Hier einfügen oder Link reinschreiben]
-
-Note:
-
-[unsichtbare Notizzeile 1]  
-[unsichtbare Notizzeile 2]
-
----
-
-### [Überschrift Folie 2]
-
-@ul
-- [Listenpunkt 1]
-- [der hier kommt erst nach weiterklicken]
-- [der noch eins danach usw...]
-@ulend
-
----
-
-[Folie 3]
-...
-
----
-
 ### Anforderungen
 @ul
 - Device
@@ -379,12 +349,106 @@ polling weg, sockets her
 
 +++
 
-Folie 1
+### Teststrategie
 
-Note:
+![](assets/images/tests_01.png)
 
-Notizzeile 1  
-2
+@ul
+- GNSS-Modul
+- REST-Schnittstelle
+- Web-Interface
+- Batterie
+- Full-Stack-Test
+@ulend
+
++++
+
+@snap[west]
+Test an der TH
+![](assets/images/tests_02_01.png)
+@snapend
+
+@snap[east]
+Test in der Innenstadt
+![](assets/images/tests_02_02.png)
+@snapend
+
++++
+
+### GNSS-Modul: Testergebnisse
+
+![](assets/images/tests_03.png)
+
++++
+
+@snap[north]
+### Test der REST-Schnittstelle
+
+![](assets/images/tests_04_01.png)
+@snapend
+
+
+![](assets/images/tests_04_02.png)
+![](assets/images/tests_04_03.png)
+
++++
+
+### REST-Schnittstelle: Testergebnisse
+
+![](assets/images/tests_05.png)
+
++++
+
+### Test des CowtrackingWebInterface
+
+@snap[west]
+Für jeden Testfall: 
+@ul
+- Vorbedingungen
+- Testdurchführung
+- Ergebnisse der Testdurchführung
+@ulend
+@snapend
+
+@snap[east]
+![](assets/images/tests_06.png)
+@snapend
+
++++
+
+### Web Interface: Testergebnisse
+
+![](assets/images/tests_07.png)
+
++++
+
+### Abschätzung der Batterielaufzeit
+
+Gesamtstromverbrauch des Devices:
+@ul
+- Betriebmodus: 24000 mA
+- Schlafmodus: 9000 mA
+@ulend
+
++++
+
+### Abschätzung der Batterielaufzeit
+
+Laufzeit der Batterie bei 2,5 Ah:
+@ul
+- Betriebmodus: ca. 4 Tage
+- Schlafmodus: ca. 12 Tage
+@ulend
+
++++
+
+### Full-Stack-Test
+Werden die Koordinaten in die Datenbank gespeichert?] 
+
++++
+
+### JA!
+![](assets/images/tests_07.png)
 
 ---
 
