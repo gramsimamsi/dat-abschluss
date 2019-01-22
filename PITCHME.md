@@ -351,11 +351,11 @@ polling weg, sockets her
 
 ### Teststrategie
 
-@snap[west]
+@snap[west span-50]
 ![](assets/images/tests_01.png)
 @snapend
 
-@snap[east]
+@snap[east span-50]
 @ul
 - GNSS-Modul
 - REST-Schnittstelle
