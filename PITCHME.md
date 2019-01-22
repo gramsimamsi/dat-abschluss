@@ -82,6 +82,7 @@ Standorte für Landwirt
 ---
 
 ## LoRa
+![](assets/images/lora.png)
 
 Note: 
 * Rechte hält SemTech aus USA -> proprietär  
