@@ -215,6 +215,8 @@ Note:
     * zusätzlich Einarbeitung in lora-Stack nötig (Spec lesen und   
     praktische Umsetzung verstehen)
 
++++
+
 ### Lessons Learned Tom
 @ul
 - Im Akkubetriebenen IoT Bereich ist GNSS ein Problem
