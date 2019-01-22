@@ -113,12 +113,79 @@ Front: Darstellen, mobil+Desktop
 
 +++
 
-Folie 1
+@snap[midpoint]
+### Überblick
+![](assets/images/device_01.png)
+@snapend
+
++++
+
+### Auswahlprozess
+@ul
+- Arduino MKRWAN-1300
+- Netblocks XRange LoRa
+- STM32L0B-L072Z-LRWAN1
+@ulend
+
+
+Note: 
+XRange -> Gründe bereits in der Zwischenpräsentation erläutert  
+STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen  
+* zertifizierter LoRa-Stack  
+* große Auswahl an Zusatzmodulen (Lora, gnss)  
+* Tutorials anhand STM32CubeMX -> falsche Annahme nur für Windows,  
+    vll hätten wir dann mehr gerissen ...  
+* Toolchain und Packages nicht aufgesetzt bekommen  
+* compilen nur mittels mbed-online-compilers  
+* Zeitplanproblem Iden des Dezembers   
+* deswegen wechseln auf Arduino  
+* Arduino -> nicht zertifiziert, aber für uns einfach zu programmieren  
+    da aus Vorlesung bekannt und Communityunterstützung gegeben
+
++++
+
+@snap[north]
+### Programmierung
+@snapend
+
+@snap[west]
+
+@ul
+- Serielle Verbindung zwischen GNSS-Modul und Arduino
+- Möglichkeit zum anzeigen und ändern der Verbindungsdaten
+- Sendezyklus:
+@ol
+    - Abfrage der Position und Verpackung in die Payload
+    - Verbindungsafbau zum Gateway
+    - Senden der Daten
+    - Auslösen eines über RTC gesteuerten Interrupts
+@olend
+@ulend
+
+@snapend
+
+@snap[east]
+![](assets/images/device_02.png)
+@snapend
+
++++
+
+### GNSS Modul
+
+@ul
+- Sehr später Lieferzeitpunkt
+- Aufwendige Einstellungsmöglichkeiten
+- Verwendung von GPS und Galileo
+- Relativ genaue Ergebnisse (~ 15m)
+- Trotz Energiesparmodus hoher Verbrauch des Moduls
+@ulend
 
 Note:
 
-Notizzeile 1  
-2
+@ul
+- Auf Windows eine recht schlechte Anwendung
+- Auschluss von GLONASS gefordert
+@ulend
 
 ---
 
