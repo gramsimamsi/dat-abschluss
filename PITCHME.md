@@ -185,8 +185,10 @@ Notizzeile 1
 
 +++
 
+@snap[midpoint]
 ### CowTrackingDatabase
 ![](assets/images/database_01.png)
+@snapend
 
 +++
 
@@ -200,8 +202,8 @@ Notizzeile 1
 ![](assets/images/database_03.png)
 
 @ul
-- [Schnellere und einfachere Einarbeitung und Nutzung]
-- [Ausführlichere Dokumentation]
+- Schnellere und einfachere Einarbeitung und Nutzung
+- Ausführlichere Dokumentation
 @ulend
 @snapend
 
@@ -209,15 +211,6 @@ Notizzeile 1
 
 ### Datenbankmodell
 ![](assets/images/database_04.png)
-
-+++
-
-Folie 1
-
-Note:
-
-Notizzeile 1  
-2
 
 ---
 
