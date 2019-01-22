@@ -81,6 +81,21 @@ Standorte für Landwirt
 
 ---
 
+## LoRa
+
+Note: 
+* Rechte hält SemTech aus USA -> proprietär  
+* kabellose Übertragungstechnik  
+* geringer Energieverbrauch + geringe Datenrate (0.3 -50 kib/s)  
+    + hohe Reichweite (50 km in offenem Gelände)  
+* um Netzwerk aufzubauen -> LoraWAN (WideAreaNetwork)   
+* koordiniert von Lora Alliance (500 Mitglieder)  
+* größere Netzwerke zB in Schweiz und Südkorea  
+* ganz aktuell 21.01 -> Aufnahme eines lora-treibers in den LinuxKernel  
+    -> Zukunft ist gegeben
+
+---
+
 ### Minimum Viable Produkt
 
 +++
@@ -328,7 +343,10 @@ Note:
 
 Note:
 
-Material Design!
+* Material Design! -> TO PRITZL
+* Synergien aus anderem Projekt genutzt  
+* Schnittstelle FrontEnd-Backend und Server 
+* Services und Interceptoren
 
 +++
 
