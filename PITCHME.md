@@ -368,19 +368,17 @@ polling weg, sockets her
 @snapend
 
 +++
-@ul
 
-- @snap[west span-50]
+@snap[west span-50]
 Test an der TH
 ![](assets/images/tests_02_01.png)
 @snapend
 
-- @snap[east span-50]
+@snap[east span-50]
 Test in der Innenstadt
 ![](assets/images/tests_02_02.png)
 @snapend
 
-@ulend
 +++
 
 ### GNSS-Modul: Testergebnisse
@@ -391,13 +389,19 @@ Test in der Innenstadt
 
 @snap[north]
 ### Test der REST-Schnittstelle
+@snapend
 
+@snap[north-east span-30]
 ![](assets/images/tests_04_01.png)
 @snapend
 
-
+@snap[south-west span-30]
 ![](assets/images/tests_04_02.png)
+@snapend
+
+@snap[south-east span-30]
 ![](assets/images/tests_04_03.png)
+@snapend
 
 +++
 
