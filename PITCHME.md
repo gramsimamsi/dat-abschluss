@@ -369,12 +369,12 @@ polling weg, sockets her
 
 +++
 
-@snap[west]
+@snap[west span-50]
 Test an der TH
 ![](assets/images/tests_02_01.png)
 @snapend
 
-@snap[east]
+@snap[east span-50]
 Test in der Innenstadt
 ![](assets/images/tests_02_02.png)
 @snapend
