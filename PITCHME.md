@@ -134,23 +134,23 @@ Notizzeile 1
 @snapend
 
 @snap[west]
-![](assets\images\server_02_west.png)
+![](assets/images/server_02_west.png)
 @snapend
 
 @snap[east]
-![](assets\images\server_02_east.png)
+![](assets/images/server_02_east.png)
 @snapend
 
 @snap[south]
-![](assets\images\server_02_south.png)
+![](assets/images/server_02_south.png)
 @snapend
 
 +++
 
 ### Frameworks
-![](assets\images\server_03_01.png)  
-![](assets\images\server_03_02.png)  
-![](assets\images\server_03_03.png)  
+![](assets/images/server_03_01.png)  
+![](assets/images/server_03_02.png)  
+![](assets/images/server_03_03.png)  
 
 +++
 
@@ -167,17 +167,7 @@ Notizzeile 1
 +++
 
 ### Code-Ausschnitt
-![](assets\images\server_04.png)  
-
-
-+++
-
-Folie 1
-
-Note:
-
-Notizzeile 1  
-2
+![](assets/images/server_04.png)  
 
 ---
 
