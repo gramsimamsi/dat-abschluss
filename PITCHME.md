@@ -147,7 +147,6 @@ Notizzeile 1
 
 +++
 
-
 @snap[midpoint]
 ### Frameworks
 ![](assets/images/server_03_01.png)  
