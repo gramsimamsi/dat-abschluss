@@ -466,9 +466,7 @@ Werden die Koordinaten in die Datenbank gespeichert?
 ---
 
 ## Demo!
-@snap[midpoint span-100]
 ![](https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif)
-@snapend
 
 Note:  
 
