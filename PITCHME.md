@@ -162,7 +162,7 @@ STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen
 
 @snapend
 
-@snap[west]
+@snap[west span-30]
 ![](assets/images/device_02.png)
 @snapend
 
