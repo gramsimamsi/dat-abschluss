@@ -142,10 +142,11 @@ STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen
 
 +++
 
-@snap[midpoint]
+@snap[north]
 ### Programmierung
+@snapend
 
-![](assets/images/device_02.png)
+@snap[east]
 
 @ul
 - Serielle Verbindung zwischen GNSS-Modul und Arduino
@@ -159,6 +160,10 @@ STM32 -> Große Hoffnungen, da bekannter Manufacterer -> gratis bekommen
 @olend
 @ulend
 
+@snapend
+
+@snap[west]
+![](assets/images/device_02.png)
 @snapend
 
 +++
