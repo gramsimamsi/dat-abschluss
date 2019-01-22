@@ -405,9 +405,10 @@ Test in der Innenstadt
 
 +++
 
+@snap[span-100]
 ### REST-Schnittstelle: Testergebnisse
-
 ![](assets/images/tests_05.png)
+@snapend
 
 +++
 
