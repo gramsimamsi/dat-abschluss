@@ -210,8 +210,7 @@ Note:
 * IDE mit Paketen aufsetzen (was braucht ich eigentlich)  
 * verwirrende Vielfalt an ähnlichen Produkten  
 * keine Communityunterstützung  
-* Grundproblem Teamaufteilung -> 2 Leute für 3 Boards inkl. Evaluierung und   
-    Programmierung nicht machbar in Zeitrahmen  
+* Grundproblem Teamaufteilung -> 2 Leute für 3 Boards inkl. Evaluierung und Programmierung nicht machbar in Zeitrahmen  
     * zusätzlich Einarbeitung in lora-Stack nötig (Spec lesen und   
     praktische Umsetzung verstehen)
 
@@ -219,8 +218,8 @@ Note:
 
 ### Lessons Learned Tom
 @ul
-- Im Akkubetriebenen IoT Bereich ist GNSS ein Problem
-- Hardware Evaluation kürzer halten
+- Im akkubetriebenen IoT Bereich ist GNSS ein Problem
+- Hardware-Evaluation kürzer halten
 - Mit bekannten Technologien arbeiten
 - Viele neue Erkenntnisse gesammelt
 @ulend
