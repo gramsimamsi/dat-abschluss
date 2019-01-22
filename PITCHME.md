@@ -351,8 +351,11 @@ polling weg, sockets her
 
 ### Teststrategie
 
+@snap[west]
 ![](assets/images/tests_01.png)
+@snapend
 
+@snap[east]
 @ul
 - GNSS-Modul
 - REST-Schnittstelle
@@ -360,6 +363,7 @@ polling weg, sockets her
 - Batterie
 - Full-Stack-Test
 @ulend
+@snapend
 
 +++
 
