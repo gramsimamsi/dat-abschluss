@@ -134,7 +134,9 @@ Notizzeile 1
 
 +++
 
+@snap[north]
 ### Cloud
+@snapend
 
 @snap[west sidebar]
 ![](assets/images/server_02_west.png)
@@ -180,6 +182,33 @@ Notizzeile 1
 ## CowTrackingDatabase
 
 ![](assets/images/02_png_background/CowTracking-Database.png)
+
++++
+
+### CowTrackingDatabase
+![](assets/images/database_01.png)
+
++++
+
+### Technologie
+![](assets/images/database_02.png)
+
++++
+
+@snap[midpoint]
+### Technologie
+![](assets/images/database_03.png)
+
+@ul
+- [Schnellere und einfachere Einarbeitung und Nutzung]
+- [Ausführlichere Dokumentation]
+@ulend
+@snapend
+
++++
+
+### Datenbankmodell
+![](assets/images/database_04.png)
 
 +++
 
