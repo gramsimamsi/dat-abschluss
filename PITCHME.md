@@ -412,9 +412,9 @@ Test in der Innenstadt
 
 +++
 
-### Test des CowtrackingWebInterface
 
-@snap[west]
+@snap[west span-50]
+### Test des CowtrackingWebInterface
 Für jeden Testfall: 
 @ul
 - Vorbedingungen
