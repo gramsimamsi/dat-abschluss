@@ -81,7 +81,6 @@ Standorte für Landwirt
 
 ---
 
-## LoRa
 ![](assets/images/lora.png)
 
 Note: 
