@@ -368,17 +368,19 @@ polling weg, sockets her
 @snapend
 
 +++
+@ul
 
-@snap[west span-50]
+- @snap[west span-50]
 Test an der TH
 ![](assets/images/tests_02_01.png)
 @snapend
 
-@snap[east span-50]
+- @snap[east span-50]
 Test in der Innenstadt
 ![](assets/images/tests_02_02.png)
 @snapend
 
+@ulend
 +++
 
 ### GNSS-Modul: Testergebnisse
