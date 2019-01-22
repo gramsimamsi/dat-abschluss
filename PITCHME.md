@@ -129,6 +129,11 @@ Notizzeile 1
 
 +++
 
+### CowTrackingServer
+![](assets\images\server_01.png)
+
++++
+
 @snap[north]
 
 ### Cloud
