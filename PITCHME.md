@@ -456,12 +456,12 @@ Laufzeit der Batterie bei 2,5 Ah:
 +++
 
 ### Full-Stack-Test
-Werden die Koordinaten in die Datenbank gespeichert?] 
+Werden die Koordinaten in die Datenbank gespeichert?]
 
 +++
 
 ### JA!
-![](assets/images/tests_07.png)
+![](assets/images/tests_08.png)
 
 ---
 
