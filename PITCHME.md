@@ -395,11 +395,11 @@ Test in der Innenstadt
 ![](assets/images/tests_04_01.png)
 @snapend
 
-@snap[south-west span-30]
+@snap[west span-50]
 ![](assets/images/tests_04_02.png)
 @snapend
 
-@snap[south-east span-30]
+@snap[east span-50]
 ![](assets/images/tests_04_03.png)
 @snapend
 
