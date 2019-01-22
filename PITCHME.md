@@ -134,6 +134,7 @@ STM32 bekannter Manufacterer
 * Toolchain + Packages nicht aufgesetzt bekommen  
 * compilen _>  mbed-online-compilers  
 * Zeitplan -> Iden des Dezembers  
+
 Arduino
 * bekannt aus Vorlesung  
 * nicht zertifiziert
