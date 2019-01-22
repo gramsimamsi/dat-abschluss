@@ -124,7 +124,51 @@ Notizzeile 1
 
 ## CowTrackingServer
 
+### CowTrackingServer
 ![](assets/images/02_png_background/CowTracking-Server.png)
+
++++
+
+@snap[north]
+### Cloud
+@snapend
+
+@snap[west]
+![](assets\images\server_02_west.png)
+@snapend
+
+@snap[east]
+![](assets\images\server_02_east.png)
+@snapend
+
+@snap[south]
+![](assets\images\server_02_south.png)
+@snapend
+
++++
+
+### Frameworks
+![](assets\images\server_03_01.png)  
+![](assets\images\server_03_02.png)  
+![](assets\images\server_03_03.png)  
+
++++
+
+
+### Pakete und Module
+
+@ul
+- JWT
+- API-KEY
+- CORS
+- SSL
+@ulend
+
++++
+
+### Code-Ausschnitt
+![](assets\images\server_04.png)  
+
 
 +++
 
