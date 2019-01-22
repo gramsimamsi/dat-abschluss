@@ -133,11 +133,11 @@ Notizzeile 1
 ### Cloud
 @snapend
 
-@snap[west]
+@snap[north-west]
 ![](assets/images/server_02_west.png)
 @snapend
 
-@snap[east]
+@snap[north-east]
 ![](assets/images/server_02_east.png)
 @snapend
 
@@ -147,10 +147,13 @@ Notizzeile 1
 
 +++
 
+
+@snap[midpoint]
 ### Frameworks
 ![](assets/images/server_03_01.png)  
 ![](assets/images/server_03_02.png)  
 ![](assets/images/server_03_03.png)  
+@snapend
 
 +++
 
