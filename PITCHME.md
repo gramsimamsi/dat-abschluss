@@ -19,7 +19,7 @@ Cowtracking ist die Lösung.
 ---
 
 ### Cowtracking!
-![](assets\images\02_LaTeX_Grobspezifikation_pictures_Overview.png)
+![](assets/images/02_LaTeX_Grobspezifikation_pictures_Overview.png)
 
 Note:
 - Full-Stack-Anwendung  
@@ -28,7 +28,7 @@ Note:
 ---
 
 ### Cowtracking!
-![](assets\images\gui_3_menu.JPG)
+![](assets/images/gui_3_menu.JPG)
 
 ---
 
