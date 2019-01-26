@@ -46,7 +46,8 @@ Note:
 ---
 
 @snap[midpoint span-30]
-## Fragen? Erste Tür links!
+## Fragen? 
+## Erste Tür links!
 ![](assets/images/thinking_face.png)
 @snapend
 
