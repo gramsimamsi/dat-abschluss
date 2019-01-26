@@ -1,4 +1,3 @@
-# Abschlusspräsentation 
 
 ![](assets/images/02_png_background/CowTracking-DAT-Projekt.png)
 
@@ -23,12 +22,16 @@ Cowtracking ist die Lösung.
 
 Note:
 - Full-Stack-Anwendung  
-- Im Grunde 3 Projekte  
+- Im grunde 3 Projekte  
 
 ---
 
 ### Cowtracking!
 ![](assets/images/gui_3_menu.JPG)
+
+Note:
+KUHle Webseite
+
 
 ---
 
@@ -38,11 +41,14 @@ Note:
 
 Note:
 - Haben working demo!
-- http://52.57.81.14
+- tatsächliche Leistung -> Feldtests
 
 ---
 
 @snap[midpoint span-30]
-## Fragen?
+## Fragen? Erste Tür links!
 ![](assets/images/thinking_face.png)
 @snapend
+
+Note:
+Demo am Stand
