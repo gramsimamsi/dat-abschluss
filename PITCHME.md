@@ -7,6 +7,33 @@ Eigenes Logo!
 
 ---
 
+### Wer?
+![](assets/images/Passbild.jpg)
+
+Note:
+Stellvertretend für 5 INF-Studenten
+
+---
+
+### DAT-Projekt?
+![](https://media.giphy.com/media/Hu33N0Q2AROog/giphy.gif)
+
+Note:
+Was ist ein DAT-Projekt?
+Kollaboration TH->Wirtschaft
+Jedes Semester Projekte anmeldbar
+
+---
+
+### DAT-Projekt?
+![](assets/images/logo-th-rosenheim.png)
+![](assets/images/logo_komro.png)
+
+Note:
+Komro kam auf TH zu, LoRa-Netzwerk nutzen -> UseCase Cowtracking!
+
+---
+
 ### Cowtracking?
 ![](https://media.giphy.com/media/h55EUEsTG9224/giphy.gif)
 
@@ -22,7 +49,7 @@ Cowtracking ist die Lösung.
 
 Note:
 - Full-Stack-Anwendung  
-- Im grunde 3 Projekte  
+- Im grunde 3 Projekte  (Plattform + Use Case Beispiel)
 
 ---
 
@@ -47,7 +74,7 @@ Note:
 
 @snap[midpoint span-30]
 ## Fragen? 
-## Erste Tür links!
+## Ab zum komro-Stand!
 ![](assets/images/thinking_face.png)
 @snapend
 
