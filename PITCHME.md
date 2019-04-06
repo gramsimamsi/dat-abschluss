@@ -81,7 +81,7 @@ Note:
 
 ---
 
-@snap[midpoint span-30]
+@snap[midpoint]
 ## Fragen? 
 ## Ab zum komro-Stand!
 ![](assets/images/thinking_face.png)
