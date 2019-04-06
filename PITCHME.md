@@ -7,8 +7,11 @@ Eigenes Logo!
 
 ---
 
+@snap[midpoint span-30]
 ### Wer?
 ![](assets/images/Passbild.jpg)
+@snapend
+
 
 Note:
 Stellvertretend für 5 INF-Studenten
@@ -26,8 +29,14 @@ Jedes Semester Projekte anmeldbar
 ---
 
 ### DAT-Projekt?
+
+@snap[west]
 ![](assets/images/logo-th-rosenheim.png)
+@snapend
+
+@snap[east]
 ![](assets/images/logo_komro.png)
+@snapend
 
 Note:
 Komro kam auf TH zu, LoRa-Netzwerk nutzen -> UseCase Cowtracking!
